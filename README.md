@@ -29,7 +29,7 @@ cd gatsby-starter-glass
 yarn install
 
 # 4. Start the development server
-yarn start
+yarn dev
 
 # 5. Start the build mode
 yarn  build

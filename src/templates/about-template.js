@@ -33,7 +33,7 @@ const AboutWrapper = styled.div`
     }
 
     & > * {
-      margin-top: 2rem;
+      margin-top: 50px;
       width: 100%;
       text-align: center;
     }

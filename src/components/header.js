@@ -23,7 +23,6 @@ const Header = () => {
         <HeaderTitle>
           <Link to="/">{site.siteMetadata.title}</Link>
         </HeaderTitle>
-
         <HeaderNavList>
           <HeaderNavListItem>
             <Link to="/blog">Blog</Link>
@@ -32,15 +31,16 @@ const Header = () => {
           <HeaderNavListItem>
             <Link to="/about">About</Link>
           </HeaderNavListItem>
-
-          <HeaderNavListItem>
-            <Link to="/contact">Contact</Link>
-          </HeaderNavListItem>
         </HeaderNavList>
       </HeaderWrapper>
     </StyledHeader>
   );
 };
+
+// Hide contact page
+/* <HeaderNavListItem>
+      <Link to="/about">About</Link>
+    </HeaderNavListItem> */
 
 export default Header;
 

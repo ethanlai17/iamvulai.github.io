@@ -99,14 +99,14 @@ body::-webkit-scrollbar-track {
   --size-800: 3.15rem;
   --size-900: 4.2rem;
 }
+// background-image: #FFFFFF;
 
 body {
   font-family: 'Poppins', -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue,
     helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
   color: #37292C;
   background-attachment: fixed;
-  background-color: #d9e4f5;
-  background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
+  background-color: #d9ecf5; //#d9e4f5
 
 }
 

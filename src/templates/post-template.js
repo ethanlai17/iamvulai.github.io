@@ -64,6 +64,7 @@ const PostTitle = styled.h1`
 const PostDate = styled.span`
   font-size: var(--size-400);
   padding-top: 1rem;
+  margin-top: 1rem;
   text-transform: uppercase;
 `;
 

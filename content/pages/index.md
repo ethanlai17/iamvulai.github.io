@@ -1,6 +1,6 @@
 ---
 template: 'index-template'
-title: 'Vu Lai'
+title: ''
 ---
 
 #Vu Lai

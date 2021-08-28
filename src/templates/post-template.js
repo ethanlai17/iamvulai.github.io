@@ -141,14 +141,14 @@ const PostPagination = styled.nav`
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.5);
-    background-color: rgba(255, 255, 255, 0.3);
+    border: 1px solid #000000; //rgba(255, 255, 255, 0.5)
+    background-color: #ffffff; //rgba(255, 255, 255, 0.3)
     backdrop-filter: blur(10px);
     margin: 0.5rem;
   }
 
   & > *:hover {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: #9fc0de; //rgba(255, 255, 255, 0.5), #d9ecf5
   }
 
   & span {

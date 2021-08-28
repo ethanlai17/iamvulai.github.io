@@ -27,6 +27,8 @@ const HomePage = ({ data }) => {
           margin-left: auto;
           margin-right: auto;
           width: fit-content;
+          border: 1px solid #000000;
+          border-radius: 4px;
         `}
         to="/blog"
       >

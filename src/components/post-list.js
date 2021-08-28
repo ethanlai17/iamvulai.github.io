@@ -77,13 +77,13 @@ const StyledPostListItem = styled.li`
   display: flex;
   flex-direction: column;
   padding: 1.5rem;
-  border: 1px solid rgba(255, 255, 255, 0.5);
-  background-color: rgba(255, 255, 255, 0.3);
+  border: 1px solid #000000; // rgba(255, 255, 255, 0.5)
+  background-color: #ffffff; // rgba(255, 255, 255, 0.3)
   backdrop-filter: blur(10px);
   border-radius: 8px;
 
   &:hover {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: #9fc0de; // rgba(255, 255, 255, 0.5), #d9ecf5
   }
 
   @media screen and (max-width: 500px) {

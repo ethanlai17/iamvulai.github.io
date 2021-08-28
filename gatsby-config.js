@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `HOME`,
+    title: `VU LAI`,
     author: {
-      name: `Vu Lai`,
+      name: ``,
       summary: ``,
     },
     description: ``,

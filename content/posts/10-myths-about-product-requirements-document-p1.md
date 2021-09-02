@@ -21,13 +21,13 @@ Let's start the nightmare.
 
 Unfortunately not. 
 
-There is a high chance that stakeholders may become strange people who have never talked to you on the release date if reasons of implementation are not strongly valid and persuasive. 
+There is a high chance that stakeholders may become strangers who unexpectedly cancel all agreements on the release date when the deliverable is not working as their expectation. One of the most common problems causing the issue is that problem statement and goal sections in a PRD are not well defined. People are likely to take this section for granted, which turns out to be a surprisingly high possibility of wrong direction and unexpected increments. 
 
-The most common problem that may explain why they blow hot and cold is that the released feature is the right feature, something they don't need. It seems ridiculous, but the possibility is surprisingly high if paying attention to pain points/ business need and goals is not sufficiently focused from the very beginning. 
+Reviewing previous PRDs, I'd say the two sections are the most crucial parts because they act as a compass for the whole document. 
 
-Besides the Why from stakeholders' perspectives, our rationale based on an understanding of existing systems and domain knowledge is another critical thing. A new feature is not always the sole approach to tackle problems. There may be some alternatives such as improved process and workarounds which already exists or takes much less effort to achieve. Keep your mind open and take them into consideration before going into details. 
+It is mutually agreed that a new feature is not always the sole approach to tackle problems. There may be some alternatives such as improved process and workarounds which already exists or takes much less effort to implement. If the sections are documented carefully, a more fruitful and efficient approach may be selected, saving the company's resources. 
 
-What I always do is that I don't start writing PRD until the stakeholders' responses make me believe that after reading the PRD, the development team and I will be excited for the sake of real impact on business. 
+My small tip is to avoid jumping into fancy things when the cores are not strongly persuasive. Always keep our mind open with no fixed solution. 
 
 ## Myth 2: "All I need to include in a PRD is information that is collected from stakeholders.", PO said
 
@@ -55,7 +55,7 @@ Even though the Scrum team has passed forming/storming/norming stages, it doesn'
 
 Circling back to the example, simple acceptance criteria that are not well defined to username is a prime example, where there is an expected constraint of valid email address; however, it is intentionally skipped because of the assumption that developers will apply the same practice from previous projects. In fact, they implement to accept all string. 
 
-That really shows how PO/PM is close to the development team :) 
+That really shows how close PO/PM and the development team are :) 
 
 ![](https://media.giphy.com/media/R2m2NzVxQ3pbG/giphy.gif?cid=ecf05e47j0wrnip7ca8h31m8c3h2ri1k45sk3726lrfqn7w6&rid=giphy.gif&ct=g)
 
